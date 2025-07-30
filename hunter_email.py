@@ -51,3 +51,4 @@ async def root():
         "message": "Welcome to the Hunter.io Email Finder API",
         "usage": "Make a GET request to /find-email/ with first_name, last_name, and domain parameters"
     }
+
