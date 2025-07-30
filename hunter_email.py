@@ -7,7 +7,7 @@ app = FastAPI(
     version="1.0.0"
 )
 
-HUNTER_API_KEY = "aa0a60c9b02800ecaae172dc664738c2749cf7f7"
+HUNTER_API_KEY = " "
 
 # Endpoint for finding emails
 @app.get("/find-email/")
